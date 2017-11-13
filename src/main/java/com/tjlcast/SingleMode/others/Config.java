@@ -1,4 +1,4 @@
-package com.tjlcast.SingleModel.others;
+package com.tjlcast.SingleMode.others;
 
 /**
  * Created by tangjialiang on 2017/10/31.

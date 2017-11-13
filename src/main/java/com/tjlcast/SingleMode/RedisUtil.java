@@ -1,11 +1,11 @@
-package com.tjlcast.SingleModel;
+package com.tjlcast.SingleMode;
 
 /**
  * Created by tangjialiang on 2017/10/31.
  *
  */
 
-import com.tjlcast.SingleModel.others.Device;
+import com.tjlcast.SingleMode.others.Device;
 import org.apache.log4j.Logger;
 import redis.clients.jedis.Jedis;
 import redis.clients.jedis.JedisPool;

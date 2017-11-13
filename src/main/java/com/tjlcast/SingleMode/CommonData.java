@@ -1,6 +1,6 @@
-package com.tjlcast.SingleModel;
+package com.tjlcast.SingleMode;
 
-import com.tjlcast.SingleModel.others.Config;
+import com.tjlcast.SingleMode.others.Config;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
